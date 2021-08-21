@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "title": "Ruby Red Le Marais Boy",
+      "price": "350.000",
+      "image": "./images/anak4.png",
+      "category": "anak"
+    },
+    {
+      "title": "GUESS S GS 6945-F 92C 53",
+      "price": "350.000",
+      "image": "./images/pria1.jpg",
+      "category": "pria"
+    },
+    {
+      "title": "Palace Blue Dalston Boy",
+      "price": "350.000",
+      "image": "./images/anak1.png",
+      "category": "anak"
+    },
+    {
+      "title": "CHRISTIAN DIOR S CB SYNTHES01 45Z0T",
+      "price": "350.000",
+      "image": "./images/pria2.jpg",
+      "category": "pria"
+    },
+    {
+      "title": "Tortoise Dalston Boy",
+      "price": "350.000",
+      "image": "./images/anak2.png",
+      "category": "anak"
+    },
+    {
+      "title": "Lensa Photocromic Biasa",
+      "price": "150.000",
+      "image": "./images/lens4.jpg",
+      "category": "lensa"
+    },
+    {
+      "title": "CHRISTIAN DIOR S CB COMPOS1.1 J5GQV",
+      "price": "350.000",
+      "image": "./images/pria3.jpg",
+      "category": "pria"
+    },
+    {
+      "title": "Black Noir Le Marais Boy",
+      "price": "350.000",
+      "image": "./images/anak3.png",
+      "category": "anak"
+    },
+    {
+      "title": "LENSA PHOTOCROMIC BLUERAY ANTI RADIASI",
+      "price": "350.000",
+      "image": "./images/lens2.jpg",
+      "category": "lensa"
+    },
+    {
+      "title": "CHRISTIAN DIOR S CB TENSITYF 7C52K",
+      "price": "350.000",
+      "image": "./images/pria4.jpg",
+      "category": "pria"
+    },
+    {
+      "title": "BOLON S BN BL6057 A60 58",
+      "price": "350.000",
+      "image": "./images/wan1.jpg",
+      "category": "wanita"
+    },
+    {
+      "title": "BOLON S BN BL8028 B91 52",
+      "price": "350.000",
+      "image": "./images/wan2.jpg",
+      "category": "wanita"
+    },
+    {
+      "title": "BALLY S BY MBY0013H 28Z 54",
+      "price": "350.000",
+      "image": "./images/wan3.jpg",
+      "category": "wanita"
+    },
+    {
+      "title": "lensa Minus",
+      "price": "50.000",
+      "image": "./images/lens1.jpg",
+      "category": "lensa"
+    },
+    {
+      "title": "BOLON S BN BL7008 B11 55",
+      "price": "350.000",
+      "image": "./images/wan4.jpg",
+      "category": "wanita"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "350.000",
+      "image": "./images/pic13.png",
+      "category": "latest"
+    },
+    {
+      "title": "Lensa Minus Green",
+      "price": "30.000",
+      "image": "./images/lens3.jpg",
+      "category": "lensa"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "350.000",
+      "image": "./images/pic8.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "350.000",
+      "image": "./images/pic15.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "350.000",
+      "image": "./images/pic1.png",
+      "category": "latest"
+    }
+  ]
+}
